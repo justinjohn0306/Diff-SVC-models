@@ -1,5 +1,5 @@
 # Diff-SVC-models
-This repository contains Diff-SVC models of various characters
+This repository contains [Diff-SVC](https://github.com/prophesier/diff-svc) models of various characters
 
 Note: These models are password protected; if you wish to use them, DM me on Discord. My username is ``justinjohn-03#4897``
 
